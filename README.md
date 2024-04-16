@@ -22,8 +22,10 @@ i can't figure out the problem in this model weather the code is incorrect on th
 
 
 # Question 
-how do i check after model evaluation that this model is ready to work ?
-Review the code is any mistake apply changes or let me tell what to do ?
-is this model ok to deploy with to backend?
-how do we combine both these model to deploy at backend?
+how do i check after model evaluation that this model is ready to work ?  
+Review the code is any mistake apply changes or let me tell what to do ?  
+is this model ok to deploy with to backend?  
+how do we combine both these model to deploy at backend?  
 or do we have to deploy single?
+
+
